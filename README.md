@@ -2,7 +2,7 @@
 **Estimation of Electric Vehicle Range Using Artificial Neural Networks**
 
 - The project "Estimation of Electric Vehicle Range Using Artificial Neural Networks" revolves around creating a predictive model that accurately estimates the range of electric vehicles (EVs) by leveraging artificial neural networks (ANNs).
-- By gathering data on various factors influencing EV range, such as battery capacity, vehicle weight, driving conditions, weather, terrain, and driving patterns, the project aims to develop a sophisticated algorithm capable of learning complex relationships between these inputs and the desired output – the EV range.
+- By gathering data on various factors influencing EV range, such as battery capacity, vehicle weight, driving conditions, weather, terrain, and driving patterns, the project aims to develop a sophisticated algorithm capable of learning complex relationships between these nputs and the desired output – the EV range.
 - Key components of the project include:
   - **Data Collection:** Gathering relevant data on factors affecting EV range.
   - **Data Preprocessing:** Ensuring data consistency and relevance through meticulous preprocessing.
